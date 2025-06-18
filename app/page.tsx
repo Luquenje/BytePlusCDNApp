@@ -50,6 +50,7 @@ export default function Home() {
             Read our docs
           </a>
         </div>
+        <Image src={"https://www.morningstar.co.uk/static/UploadManager/Assets/Pagoda%20in%20Kyoto%20Japan.jpg"} width={450} height={300} alt=""></Image>
       </main>
       <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
         <a
